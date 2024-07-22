@@ -1,4 +1,4 @@
-# Meus Dashboards Power BI
+# Meus Dashboards no Power BI
 
 Bem-vindo ao meu repositório! 
 
